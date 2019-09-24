@@ -1,1 +1,3 @@
-# hello-world
+# hello-world 
+
+New to git coding 
